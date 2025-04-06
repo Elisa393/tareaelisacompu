@@ -1,0 +1,17 @@
+.tb{
+	background-color: ghostwhite;
+	border: 2px solid #000000;
+	padding:  17px;
+	text-align: center;
+	margin: 20px 5px;
+	width: 600px;
+}
+#text1{
+	text-shadow: 5px 5px  10px  #8b008b;
+	font: bold 30px  allura;
+	width: 100;
+}
+#texto2{
+	text-shadow: 5px 5px 10px #ff1493;
+	font: bold 40px alex-brush;
+}
